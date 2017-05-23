@@ -1,0 +1,28 @@
+# no ods files (openoffice stuff)
+*.ods
+
+# Apparently tildes are a pain
+*~
+
+# You can ignore anything else: 
+# *.[abc]  ---file extensions with letters 'a', 'b' or 'c'
+#
+#
+# track lib.a even if you're ignoring *.a :
+# !lib.a
+#
+# ignore all files in build/ director
+# build/
+#
+#
+# ignore doc/notes.txt, but note doc/server/arch.txt
+#
+# doc/*.txt
+#
+# ignore .pdf files in doc/ directory
+# doc/**/*.pdf
+# I ADDED THIS AS A TEST LINE
+# I ADDED THIS AS A TEST LINE
+# I ADDED THIS AS A TEST LINE
+# I ADDED THIS AS A TEST LINE
+# I ADDED THIS AS A TEST LINE -- HAHAHA!!!
